@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.kde.krunner_kdbx
+Exec=/usr/bin/python -m krunner_kdbx

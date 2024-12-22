@@ -1,0 +1,5 @@
+.idea
+.kdev4
+/krunner-kdbx.kdev4
+*.pyc
+__pychache__
